@@ -1,0 +1,122 @@
+[
+	{
+		"input": [
+			"Bethina",
+			"Brixey",
+			57
+		],
+		"output": {
+			"firstName": "Bethina",
+			"lastName": "Brixey",
+			"age": 57
+		}
+	},
+	{
+		"input": [
+			"Merci",
+			"Awton",
+			36
+		],
+		"output": {
+			"firstName": "Merci",
+			"lastName": "Awton",
+			"age": 36
+		}
+	},
+	{
+		"input": [
+			"Latashia",
+			"Mougeot",
+			44
+		],
+		"output": {
+			"firstName": "Latashia",
+			"lastName": "Mougeot",
+			"age": 44
+		}
+	},
+	{
+		"input": [
+			"Gasper",
+			"MacAndie",
+			42
+		],
+		"output": {
+			"firstName": "Gasper",
+			"lastName": "MacAndie",
+			"age": 42
+		}
+	},
+	{
+		"input": [
+			"Lurette",
+			"Skeggs",
+			30
+		],
+		"output": {
+			"firstName": "Lurette",
+			"lastName": "Skeggs",
+			"age": 30
+		}
+	},
+	{
+		"input": [
+			"Base",
+			"Maric",
+			74
+		],
+		"output": {
+			"firstName": "Base",
+			"lastName": "Maric",
+			"age": 74
+		}
+	},
+	{
+		"input": [
+			"Lanny",
+			"Kingsland",
+			43
+		],
+		"output": {
+			"firstName": "Lanny",
+			"lastName": "Kingsland",
+			"age": 43
+		}
+	},
+	{
+		"input": [
+			"Erasmus",
+			"Orteu",
+			25
+		],
+		"output": {
+			"firstName": "Erasmus",
+			"lastName": "Orteu",
+			"age": 25
+		}
+	},
+	{
+		"input": [
+			"Logan",
+			"Laidler",
+			22
+		],
+		"output": {
+			"firstName": "Logan",
+			"lastName": "Laidler",
+			"age": 22
+		}
+	},
+	{
+		"input": [
+			"Zenia",
+			"McCrory",
+			69
+		],
+		"output": {
+			"firstName": "Zenia",
+			"lastName": "McCrory",
+			"age": 69
+		}
+	}
+]
