@@ -1,0 +1,136 @@
+[
+	{
+		"input": [
+			"Berni Vanichkov",
+			39
+		],
+		"output": {
+			"name": {
+				"first": "Berni",
+				"last": "Vanichkov"
+			},
+			"age": 39
+		}
+	},
+	{
+		"input": [
+			"Nanon Minda Yurivtsev",
+			26
+		],
+		"output": {
+			"name": {
+				"first": "Nanon",
+				"middle": "Minda",
+				"last": "Yurivtsev"
+			},
+			"age": 26
+		}
+	},
+	{
+		"input": [
+			"Paige Knapton",
+			70
+		],
+		"output": {
+			"name": {
+				"first": "Paige",
+				"last": "Knapton"
+			},
+			"age": 70
+		}
+	},
+	{
+		"input": [
+			"Thain Lammert",
+			29
+		],
+		"output": {
+			"name": {
+				"first": "Thain",
+				"last": "Lammert"
+			},
+			"age": 29
+		}
+	},
+	{
+		"input": [
+			"Duncan Ilyinski",
+			44
+		],
+		"output": {
+			"name": {
+				"first": "Duncan",
+				"last": "Ilyinski"
+			},
+			"age": 44
+		}
+	},
+	{
+		"input": [
+			"Tresa Edy Froome",
+			21
+		],
+		"output": {
+			"name": {
+				"first": "Tresa",
+				"middle": "Edy",
+				"last": "Froome"
+			},
+			"age": 21
+		}
+	},
+	{
+		"input": [
+			"Stanislas Roch Blackie",
+			48
+		],
+		"output": {
+			"name": {
+				"first": "Stanislas",
+				"middle": "Roch",
+				"last": "Blackie"
+			},
+			"age": 48
+		}
+	},
+	{
+		"input": [
+			"Devlen Maciocia",
+			46
+		],
+		"output": {
+			"name": {
+				"first": "Devlen",
+				"last": "Maciocia"
+			},
+			"age": 46
+		}
+	},
+	{
+		"input": [
+			"Kingsly Stiant",
+			37
+		],
+		"output": {
+			"name": {
+				"first": "Kingsly",
+				"last": "Stiant"
+			},
+			"age": 37
+		}
+	},
+	{
+		"input": [
+			"Courtnay Joel Lafranconi",
+			21
+		],
+		"output": {
+			"name": {
+				"first": "Courtnay",
+				"middle": "Joel",
+				"last": "Lafranconi"
+			},
+			"age": 21
+		}
+	}
+]

@@ -1,0 +1,100 @@
+[
+	{
+		"input": [
+			{
+				"firstName": "Farris",
+				"middleName": "Janetta",
+				"lastName": "Le-Good",
+				"isHuman": true
+			}
+		],
+		"output": "Le-Good, Farris Janetta"
+	},
+	{
+		"input": [
+			{
+				"name": "Flashdog",
+				"isHuman": false
+			}
+		],
+		"output": "Flashdog"
+	},
+	{
+		"input": [
+			{
+				"name": "Avaveo",
+				"isHuman": false
+			}
+		],
+		"output": "Avaveo"
+	},
+	{
+		"input": [
+			{
+				"firstName": "Betta",
+				"middleName": "Nadean",
+				"lastName": "Byne",
+				"isHuman": true
+			}
+		],
+		"output": "Byne, Betta Nadean"
+	},
+	{
+		"input": [
+			{
+				"firstName": "Bili",
+				"middleName": "Bryan",
+				"lastName": "Ivanonko",
+				"isHuman": true
+			}
+		],
+		"output": "Ivanonko, Bili Bryan"
+	},
+	{
+		"input": [
+			{
+				"firstName": "Vinita",
+				"lastName": "Mockler",
+				"isHuman": true
+			}
+		],
+		"output": "Mockler, Vinita"
+	},
+	{
+		"input": [
+			{
+				"firstName": "Eustacia",
+				"lastName": "Caisley",
+				"isHuman": true
+			}
+		],
+		"output": "Caisley, Eustacia"
+	},
+	{
+		"input": [
+			{
+				"name": "Flipstorm",
+				"isHuman": false
+			}
+		],
+		"output": "Flipstorm"
+	},
+	{
+		"input": [
+			{
+				"name": "Livetube",
+				"isHuman": false
+			}
+		],
+		"output": "Livetube"
+	},
+	{
+		"input": [
+			{
+				"name": "Wordware",
+				"isHuman": false
+			}
+		],
+		"output": "Wordware"
+	}
+]

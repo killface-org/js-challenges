@@ -1,0 +1,112 @@
+[
+	{
+		"input": [
+			{
+				"keyValue": "luctus",
+				"luctus": {
+					"color": "Red"
+				}
+			}
+		],
+		"output": "Red"
+	},
+	{
+		"input": [
+			{
+				"keyValue": "ante",
+				"ante": {
+					"color": "Red"
+				}
+			}
+		],
+		"output": "Red"
+	},
+	{
+		"input": [
+			{
+				"keyValue": "ac",
+				"ac": {
+					"color": "Indigo"
+				}
+			}
+		],
+		"output": "Indigo"
+	},
+	{
+		"input": [
+			{
+				"keyValue": "dapibus",
+				"dapibus": {
+					"color": "Fuscia"
+				}
+			}
+		],
+		"output": "Fuscia"
+	},
+	{
+		"input": [
+			{
+				"keyValue": "sollicitudin",
+				"sollicitudin": {
+					"color": "Yellow"
+				}
+			}
+		],
+		"output": "Yellow"
+	},
+	{
+		"input": [
+			{
+				"keyValue": "feugiat",
+				"feugiat": {
+					"color": "Orange"
+				}
+			}
+		],
+		"output": "Orange"
+	},
+	{
+		"input": [
+			{
+				"keyValue": "eget",
+				"eget": {
+					"color": "Green"
+				}
+			}
+		],
+		"output": "Green"
+	},
+	{
+		"input": [
+			{
+				"keyValue": "tincidunt",
+				"tincidunt": {
+					"color": "Orange"
+				}
+			}
+		],
+		"output": "Orange"
+	},
+	{
+		"input": [
+			{
+				"keyValue": "curabitur",
+				"curabitur": {
+					"color": "Orange"
+				}
+			}
+		],
+		"output": "Orange"
+	},
+	{
+		"input": [
+			{
+				"keyValue": "massa",
+				"massa": {
+					"color": "Purple"
+				}
+			}
+		],
+		"output": "Purple"
+	}
+]

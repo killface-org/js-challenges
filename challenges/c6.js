@@ -15,12 +15,3 @@ Returns: {firstName: 'Jane', lastName: 'Doe', age: 25}
 */
 
 //Start writing your code.
-
-function makePerson(first, last, age)
-{
-    return {
-        firstName: first,
-        lastName: last,
-        age: age
-    };
-}
