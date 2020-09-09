@@ -9,13 +9,13 @@ there will not be a middle name property, as such it will not be included in the
 
 Examples:
 
-Call: generateLabelName({name: 'Google'})
+Call: generateLabelName({name: 'Google', isHuman: false})
 Returns: 'Google'
 
-Call: generateLabelName({firstName: 'John', lastName: 'Smith'})
+Call: generateLabelName({firstName: 'John', lastName: 'Smith', isHuman: true})
 Returns: 'Smith, John'
 
-Call: generateLabelName({firstName: 'Jane', middleName: 'Susan', lastName: 'Doe'})
+Call: generateLabelName({firstName: 'Jane', middleName: 'Susan', lastName: 'Doe', isHuman: true})
 Returns: 'Doe, Jane Susan'
 
 */
