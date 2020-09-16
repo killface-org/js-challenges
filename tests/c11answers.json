@@ -1,0 +1,62 @@
+[
+	{
+		"input": [
+			"Ferrari"
+		],
+		"output": "irarreF"
+	},
+	{
+		"input": [
+			"Volkswagen"
+		],
+		"output": "negawskloV"
+	},
+	{
+		"input": [
+			"Jaguar"
+		],
+		"output": "raugaJ"
+	},
+	{
+		"input": [
+			"Plymouth"
+		],
+		"output": "htuomylP"
+	},
+	{
+		"input": [
+			"Lamborghini"
+		],
+		"output": "inihgrobmaL"
+	},
+	{
+		"input": [
+			"Toyota"
+		],
+		"output": "atoyoT"
+	},
+	{
+		"input": [
+			"Audi"
+		],
+		"output": "iduA"
+	},
+	{
+		"input": [
+			"Chevrolet"
+		],
+		"output": "telorvehC"
+	},
+	{
+		"input": [
+			"Mitsubishi"
+		],
+		"output": "ihsibustiM"
+	},
+	{
+		"input": [
+			"Mercedes"
+		],
+		"output": "sedecreM"
+	}
+]
