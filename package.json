@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "check": "node checkChallenge.js"
+    "check": "node checkChallenge.js",
+    "CollinSucks": "node checkChallengeAsk.js"
   },
   "author": "",
   "license": "ISC",
