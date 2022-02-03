@@ -12,9 +12,9 @@ two parameters the first is the input string to encrypt, and the second is the p
 Examples:
 
 Call: vigenereEncrypt('The Quick Brown Fox Jumps Over The Lazy Dogs.', 'password')
-Returns: 'Ihw Mizfz Tjkke Uop Fidstd Grsi Ihw Hoqb Dgyo.'
+Returns: 'Ihw Iqwtn Qrgoj Tfa Yueho Cmhg Tzw Hoqb Soyk.'
 
-Call: vigenereDecrypt('Ihw Mizfz Tjkke Uop Fidstd Grsi Ihw Hoqb Dgyo.', 'password')
+Call: vigenereDecrypt('Ihw Iqwtn Qrgoj Tfa Yueho Cmhg Tzw Hoqb Soyk.', 'password')
 Returns: 'The Quick Brown Fox Jumps Over The Lazy Dogs.'
 
 Notes:
