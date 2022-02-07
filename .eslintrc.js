@@ -37,5 +37,6 @@ module.exports = {
 		'space-in-parens': ['error', 'never'],
 		'space-infix-ops': ['error', { 'int32Hint': false }],
 		'no-multi-spaces': 'error',
+		'semi-spacing': ['error', {'before': false, 'after': true}],
 	},
 };
