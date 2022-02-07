@@ -1,0 +1,41 @@
+module.exports = {
+	'env': {
+		'browser': false,
+		'es2021': true,
+		'node': true,
+	},
+	'extends': 'eslint:recommended',
+	'parserOptions': {
+		'ecmaVersion': 'latest',
+		'sourceType': 'module',
+	},
+	'rules': {
+		'semi': ['error', 'always'],
+		'quotes': ['error', 'single'],
+		'indent': ['error', 'tab'],
+		'brace-style': ['error', 'allman'],
+		'comma-dangle': ['error', {
+			'arrays': 'always-multiline',
+			'objects': 'always-multiline',
+			'imports': 'never',
+			'exports': 'never',
+			'functions': 'never',
+		}],
+		'comma-spacing': ['error', { 'before': false, 'after': true }],
+		'arrow-spacing': ['error', { 'before': true, 'after': true }],
+		'one-var-declaration-per-line': ['error', 'always'],
+		'no-multiple-empty-lines': ['error', { 'max': 1}],
+		'padding-line-between-statements': [
+			'error',
+			{ 'blankLine': 'always', 'prev': '*', 'next': 'function' },
+			{ 'blankLine': 'always', 'prev': 'function', 'next': '*' },
+			{ 'blankLine': 'always', 'prev': '*', 'next': 'class' },
+			{ 'blankLine': 'always', 'prev': 'class', 'next': '*' },
+		],
+		'lines-between-class-members': ['error', 'always', { 'exceptAfterSingleLine': true }],
+		'no-whitespace-before-property': 'error',
+		'space-in-parens': ['error', 'never'],
+		'space-infix-ops': ['error', { 'int32Hint': false }],
+		'no-multi-spaces': 'error',
+	},
+};
